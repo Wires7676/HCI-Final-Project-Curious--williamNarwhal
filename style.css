@@ -202,51 +202,6 @@ nav img {
 
 /* login.html */
 
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background: #ffffff;
-  padding: 15px 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  text-align: center;
-  font-size: 22px;
-  font-weight: bold;
-}
-.login-container {
-  background: #fff;
-  padding: 30px;
-  padding-top: 50px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  width: 320px;
-  margin-top: 70px; /* so it's not under header */
-  text-align: center;
-}
-.login-container input {
-  width: 100%;
-  padding: 10px;
-  margin: 12px 0;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  font-size: 15px;
-}
-.login-container button {
-  width: 100%;
-  padding: 10px;
-  margin-top: 10px;
-  background: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 16px;
-}
-.login-container button:hover {
-  background: #0056b3;
-}
-
 /* form.html */
 
 #form-parent-container {
